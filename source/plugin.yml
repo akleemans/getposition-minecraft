@@ -1,0 +1,10 @@
+name: GetPosition
+main: ch.cloverdev.GetPosition.GetPosition
+version: 1
+
+commands:
+   showpos:
+      description: Shows your position.
+      usage: /<command>
+      permission: <plugin name>.showpos
+      permission-message: You don't have <permission>
